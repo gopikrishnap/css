@@ -1,0 +1,130 @@
+
+body {
+    margin:0px;
+    padding:0px;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.d1{
+    background: green;
+    width: 40%;
+
+    float: left;
+    padding:  9px;
+        
+}
+.clear{
+    clear: both;
+}
+ 
+header
+{
+    width: 100%;
+}
+
+nav{
+    color: chartreuse;
+    background: red;      
+    width: 60%;
+    float: right;
+    padding:  19px 0px;
+
+    
+}
+nav >ul >li{
+    list-style: none;
+   float: left;
+   font-family: 'Times New Roman', Times, serif;
+   
+   
+  
+  
+    
+    
+}
+.l{
+    padding: 0px 25px;
+    font-size: 28px;
+    font-family: 'Times New Roman';
+}
+h1{
+    font-size: 28px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    text-transform: uppercase;
+}
+nav>ul{
+   padding-top: 2px;
+}
+
+/* .......................main.................. */
+header
+{
+    
+    margin-top: 25px;
+
+  
+   
+}
+
+.f1{
+  float: left; 
+  width: 25%;
+  padding: 5px;
+ 
+  border-radius: 3px;
+
+}
+.f2{
+float: left;
+width: 25%;
+padding: 5px;
+}
+.f3{
+    float: left;
+    width:  25%;
+    padding: 5px;
+}
+.f4{
+    float: right;
+    width: 25%;
+    padding: 5px;
+}
+
+.div1{
+    padding-top: 20px;
+    width: 100%;
+}
+
+ /* ...................................footer......................... */
+.foot1{
+    float: left;
+    width: 50%;
+    background-color: blue;
+    padding: 0px;
+    margin: 0px;
+    
+   
+    
+}
+  
+.foot2{
+    float: right;
+    width: 50%;
+    background-color: red;
+    padding: 27px;
+    margin: 0px;
+  
+   
+    
+}
+footer{
+  margin-top: 25px;
+}
+
+
+

@@ -1,0 +1,121 @@
+hr{
+    border: 5px solid red;
+
+}
+.s1{
+
+    color: red;
+    text-align: center;
+    letter-spacing: 2px;
+
+}
+.p1{
+
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+
+}
+.s2{
+color: brown;
+text-align: center;
+text-decoration-line: underline;
+letter-spacing: 2px;
+
+}
+.u2{
+color: chartreuse;
+font-size: 20px;
+text-transform: capitalize;
+
+}
+.s3{
+color: chocolate;
+
+}
+.p3{
+color: blueviolet;
+font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+}
+.s4
+{
+    text-decoration-line: line-through;
+color: crimson;
+text-align: center;
+text-decoration-line: overline;
+}
+
+.p4
+
+{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    
+}
+.s5
+{
+    text-decoration-line: underline;
+color: cyan;
+}
+
+.p5
+
+{
+    color: blueviolet;  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+}
+.s6
+{
+color: deeppink;
+}
+
+.p6
+
+{
+    color: blueviolet;  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+}
+.s7
+{
+color: green
+}
+
+.p7
+
+{
+    color: blueviolet;   
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+}
+
+
+h3{
+    color: purple;
+}
+.ol1{
+    color: turquoise;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: lowercase;
+}
+h4{
+    color: tomato;
+}
+.ol2{
+   color: limegreen;
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: uppercase;
+}

@@ -1,0 +1,59 @@
+h1{
+    width: 20%;
+    color: brown;
+    background: pink;
+   
+
+}
+
+   
+   h1,div{
+       margin: 0px;
+   }
+  
+  
+    
+
+body{
+    background-image: url(http://newwishesimages.com/wp-content/uploads/2018/03/ipl-2018-logo-.jpg);
+
+ background-attachment: fixed;
+
+    background-repeat: no-repeat;
+    background-position: left top ;
+   
+}
+
+.f1{
+    float: left ;
+    width: 49%;
+    color: yellow;
+    text-align: justify;
+}
+.f2{
+   float: right;
+   width: 49%;
+   color: skyblue;
+   text-align: justify;
+
+}
+.d1{
+    float: left;   
+    width: 49%;
+    color: chartreuse;
+    background-color: black;
+}
+.d2{
+
+    float: right;  
+    width: 49%;
+    color: blue;
+    background-color: black;
+}
+
+.clear{
+    clear: both;
+}
+nav{
+
+}

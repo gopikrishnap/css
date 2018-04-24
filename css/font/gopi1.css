@@ -1,0 +1,21 @@
+.gopik
+{
+    color: blue;
+}
+div{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+ul{
+    font-weight: 600;
+
+}
+
+li{
+    text-transform: uppercase;
+}
+p{
+    text-transform: capitalize;
+}
